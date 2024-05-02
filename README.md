@@ -1,6 +1,8 @@
 # Image gallery
 
-> A simple
+> Describe the project ...
+
+![Project screenshot]()
 
 ## Table of contents
 
@@ -15,8 +17,7 @@
 
 ## General info
 
-> The objective of the project is to practice separation of concern in
-> JavaScript.
+> The objective of the project is ...
 
 ## Screenshots
 
@@ -24,14 +25,14 @@
 
 ## Technologies
 
-- JavaScript
-- HTML5
-- CSS3
-- VSC code
+- JavaScript, HTML, CSS3
 
 ## Setup
 
-clone the repo and start using the stop watch.
+- clone the repo 
+- Initialize the project with `git install`
+- Visit the index.html file 
+
 
 ## Code Examples
 
